@@ -31,7 +31,7 @@
 若使用 Skills CLI，可按其支持的方式安装：
 
 ```bash
-npx skills add bjjjzmzbjf/strict-template-fil --skill strict-template-fill
+npx skills add bjjjzmzbjf/strict-template-fill --skill strict-template-fill
 ```
 
 CLI 并非本技能依赖；本仓库的发布检查不等于已在所有代理或安装器中完成兼容性测试。
