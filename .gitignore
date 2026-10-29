@@ -1,0 +1,22 @@
+# 本地编辑器和系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+
+# 任务数据不属于技能包；发布前仍需人工检查文件清单
+~$*
+*.doc
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.zip
+任务数据/
+核查记录/
+统一格式结果/

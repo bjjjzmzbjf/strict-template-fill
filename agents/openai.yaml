@@ -1,0 +1,6 @@
+interface:
+  display_name: "严格按模板填入内容"
+  short_description: "先制作公共母版，逐份复制并无格式填入，严格核对全部格式、数据及每页版面"
+  default_prompt: "使用 $strict-template-fill，从我指定的模板或参考文件制作公共母版，逐份复制并无格式填入原稿内容，严格保持全部格式，核对内容、每页版面及批量一致性。"
+policy:
+  allow_implicit_invocation: true
